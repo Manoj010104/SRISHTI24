@@ -19,6 +19,7 @@ Model Answer (required)
 ![image](https://github.com/Manoj010104/SRISHTI24/assets/120236387/ce5f437e-5905-46a5-9bc1-431a65ce4369)
 
 We will reformat our instruction dataset to follow Llama 2 template.
+
 Orignal Dataset: https://huggingface.co/datasets/timdettmers/openassistant-guanaco
 Reformat Dataset following the Llama 2 template with 1k sample: https://huggingface.co/datasets/mlabonne/guanaco-llama2-1k
 Complete Reformat Dataset following the Llama 2 template: https://huggingface.co/datasets/mlabonne/guanaco-llama2
